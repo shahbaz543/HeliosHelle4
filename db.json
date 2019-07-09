@@ -2,7 +2,7 @@
   "GetDocuments": [
  
    {
-    "Id": 134,
+    "id": 134,
     "InventoryId": 350378,
     "Name": "Hallo Welt",
     "FileName": "Hallo Welt.pdf",
