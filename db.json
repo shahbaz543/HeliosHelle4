@@ -1,7 +1,7 @@
   {
   "GetDocuments": [
   {
-  "Id": 126,
+  "id": 126,
   "InventoryId": 350378,
   "Name": "lorry",
   "FileName": "Download.png",
