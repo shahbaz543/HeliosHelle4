@@ -33,7 +33,7 @@
     "id": 2,
     "InventoryId": 249171,
     "NotificationType": {
-      "id": 12
+      "id": 2,
       "Priority": 2,
       "Name": "warning"
     },
