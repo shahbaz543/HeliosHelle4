@@ -12,7 +12,7 @@
     "FileSize": 2801
 }],
     "GetMonitor": [
-   {
+    {
      "id": 1,
      "InventoryId": 249171,
      "NotificationType": {
@@ -27,7 +27,7 @@
      "ApprovedWhen": "2019-08-05T09:12:58.366Z",
      "ApprovedBy": "Approver by Airbus",
      "Remark": "Lets see"
-   },
+    },
    {
      "id": 2,
      "InventoryId": 249171,
