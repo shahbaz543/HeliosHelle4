@@ -30,36 +30,36 @@
      "Remark": "Lets see"
   },
   {
-      "id": 2,
-      "InventoryId": 249171,
-      "NotificationType": {
-        "id": 2,
-        "Priority": 2,
-        "Name": "warning"
-      },
-      "TagName": "Tags2",
-      "TagDescription": "Tags and Tags and more tags2",
-      "Start": "2019-08-05T09:12:58.366Z",
-      "End": "2019-08-05T09:12:58.366Z",
-      "ApprovedWhen": "2019-08-05T09:12:58.366Z",
-      "ApprovedBy": "Approver by Airbus2",
-      "Remark": "Lets see2"
-    },
+     "id": 2,
+     "InventoryId": 249171,
+     "NotificationType": {
+       "id": 2,
+       "Priority": 2,
+       "Name": "warning"
+     },
+     "TagName": "Tags2",
+     "TagDescription": "Tags and Tags and more tags2",
+     "Start": "2019-08-05T09:12:58.366Z",
+     "End": "2019-08-05T09:12:58.366Z",
+     "ApprovedWhen": "2019-08-05T09:12:58.366Z",
+     "ApprovedBy": "Approver by Airbus2",
+     "Remark": "Lets see2"
+  },
   {
-      "id": 3,
-      "InventoryId": 249171,
-      "NotificationType": {
-        "id": 3,
-        "Priority": 3,
-        "Name": "note"
-      },
-      "TagName": "Tags3",
-      "TagDescription": "Tags and Tags and more tags3",
-      "Start": "2019-08-05T09:12:58.366Z",
-      "End": "2019-08-05T09:12:58.366Z",
-      "ApprovedWhen": "2019-08-05T09:12:58.366Z",
-      "ApprovedBy": "Approver by Airbus3",
-      "Remark": "Lets see3"
+     "id": 3,
+     "InventoryId": 249171,
+     "NotificationType": {
+       "id": 3,
+       "Priority": 3,
+       "Name": "note"
+     },
+     "TagName": "Tags3",
+     "TagDescription": "Tags and Tags and more tags3",
+     "Start": "2019-08-05T09:12:58.366Z",
+     "End": "2019-08-05T09:12:58.366Z",
+     "ApprovedWhen": "2019-08-05T09:12:58.366Z",
+     "ApprovedBy": "Approver by Airbus3",
+     "Remark": "Lets see3"
     }
-    ] 
+   ] 
 }
