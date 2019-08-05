@@ -49,7 +49,7 @@
     "id": 3,
     "InventoryId": 249171,
     "NotificationType": {
-      "id": 3
+      "id": 3,
       "Priority": 3,
       "Name": "note"
     },
