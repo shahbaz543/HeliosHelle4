@@ -23,5 +23,5 @@
  { "Id": 1219462, "InventoryId": 350538, "NotificationType": { "Id": 1, "Priority": 1, "Name": "error" }, "TagName": "RTDS_COMMONRTDS_FLW_L_Alarm_H_26", "TagDescription": "Not-Aus Relais ausgelöst, +S1-12A1", "Start": "2019-07-10T08:33:41", "End": "2019-07-10T09:38:43", "ApprovedWhen": null, "ApprovedBy": "", "Remark": "" }, 
  { "Id": 1219455, "InventoryId": 350538, "NotificationType": { "Id": 1, "Priority": 1, "Name": "error" }, "TagName": "RTDS_COMMONRTDS_FLW_L_Alarm_H_104", "TagDescription": "Not-Aus am RAP wurde betätigt", "Start": "2019-07-10T08:31:41", "End": "2019-07-10T09:38:43", "ApprovedWhen": null, "ApprovedBy": "", "Remark": "" }, 
  { "Id": 1219398, "InventoryId": 350538, "NotificationType": { "Id": 1, "Priority": 1, "Name": "error" }, "TagName": "RTDS_COMMONRTDS_FLW_L_Alarm_H_109", "TagDescription": "DP/DP-Koppler RAP Diagnose meldet Fehler", "Start": "2019-07-10T06:06:33", "End": "2019-07-10T06:18:33", "ApprovedWhen": null, "ApprovedBy": "", "Remark": "" } 
-] 
+]  
 }
