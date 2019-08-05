@@ -19,15 +19,15 @@
     "NotificationType": {
       "Id": 1,
       "Priority": 1,
-      "Name": “error”
+      "Name": "error"
     },
-    "TagName": “Tags”,
-    "TagDescription": “Tags and Tags and more tags”,
+    "TagName": "Tags",
+    "TagDescription": "Tags and Tags and more tags",
     "Start": "2019-08-05T09:12:58.366Z",
     "End": "2019-08-05T09:12:58.366Z",
     "ApprovedWhen": "2019-08-05T09:12:58.366Z",
-    "ApprovedBy": “Approver by Airbus”,
-    "Remark": “Lets see”
+    "ApprovedBy": "Approver by Airbus",
+    "Remark": "Lets see"
   },
 {
     "Id": 2,
@@ -35,15 +35,15 @@
     "NotificationType": {
       "Id": 12
       "Priority": 2,
-      "Name": “warning”
+      "Name": "warning"
     },
-    "TagName": “Tags2”,
-    "TagDescription": “Tags and Tags and more tags2”,
+    "TagName": "Tags2",
+    "TagDescription": "Tags and Tags and more tags2",
     "Start": "2019-08-05T09:12:58.366Z",
     "End": "2019-08-05T09:12:58.366Z",
     "ApprovedWhen": "2019-08-05T09:12:58.366Z",
-    "ApprovedBy": “Approver by Airbus2”,
-    "Remark": “Lets see2”
+    "ApprovedBy": "Approver by Airbus2",
+    "Remark": "Lets see2"
   },
 {
     "Id": 3,
@@ -51,15 +51,15 @@
     "NotificationType": {
       "Id": 3
       "Priority": 3,
-      "Name": “note”
+      "Name": "note"
     },
-    "TagName": “Tags3”,
-    "TagDescription": “Tags and Tags and more tags3”,
+    "TagName": "Tags3",
+    "TagDescription": "Tags and Tags and more tags3",
     "Start": "2019-08-05T09:12:58.366Z",
     "End": "2019-08-05T09:12:58.366Z",
     "ApprovedWhen": "2019-08-05T09:12:58.366Z",
-    "ApprovedBy": “Approver by Airbus3”,
-    "Remark": “Lets see3”
+    "ApprovedBy": "Approver by Airbus3",
+    "Remark": "Lets see3"
   }
     ]
 }
