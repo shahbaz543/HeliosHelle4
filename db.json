@@ -17,7 +17,7 @@
     "id": 1,
     "InventoryId": 249171,
     "NotificationType": {
-      "Id": 1,
+      "id": 1,
       "Priority": 1,
       "Name": "error"
     },
@@ -30,10 +30,10 @@
     "Remark": "Lets see"
   },
 {
-    "Id": 2,
+    "id": 2,
     "InventoryId": 249171,
     "NotificationType": {
-      "Id": 12
+      "id": 12
       "Priority": 2,
       "Name": "warning"
     },
@@ -46,10 +46,10 @@
     "Remark": "Lets see2"
   },
 {
-    "Id": 3,
+    "id": 3,
     "InventoryId": 249171,
     "NotificationType": {
-      "Id": 3
+      "id": 3
       "Priority": 3,
       "Name": "note"
     },
