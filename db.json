@@ -14,7 +14,7 @@
     ,
     "GetMonitor": [
   {
-    "Id": 1,
+    "id": 1,
     "InventoryId": 249171,
     "NotificationType": {
       "Id": 1,
